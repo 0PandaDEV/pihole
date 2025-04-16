@@ -1,25 +1,44 @@
 0.0.0.0 googlevideo.com
+0.0.0.0 www.googlevideo.com
 0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
 0.0.0.0 ytimg.com
+0.0.0.0 www.ytimg.com
 0.0.0.0 googleusercontent.com
+0.0.0.0 www.googleusercontent.com
 0.0.0.0 gstatic.com
+0.0.0.0 www.gstatic.com
 0.0.0.0 youtube-nocookie.com
+0.0.0.0 www.youtube-nocookie.com
 0.0.0.0 ytimg.l.google.com
+0.0.0.0 www.ytimg.l.google.com
 0.0.0.0 i.ytimg.com
+0.0.0.0 www.i.ytimg.com
 0.0.0.0 s.ytimg.com
+0.0.0.0 www.s.ytimg.com
 0.0.0.0 clients1.google.com
+0.0.0.0 www.clients1.google.com
 0.0.0.0 clients2.google.com
+0.0.0.0 www.clients2.google.com
 0.0.0.0 clients3.google.com
+0.0.0.0 www.clients3.google.com
 0.0.0.0 clients4.google.com
+0.0.0.0 www.clients4.google.com
 0.0.0.0 clients5.google.com
+0.0.0.0 www.clients5.google.com
 0.0.0.0 clients6.google.com
+0.0.0.0 www.clients6.google.com
 0.0.0.0 redirector.googlevideo.com
+0.0.0.0 www.redirector.googlevideo.com
 0.0.0.0 manifest.googlevideo.com
+0.0.0.0 www.manifest.googlevideo.com
 0.0.0.0 youtubei.googleapis.com
+0.0.0.0 www.youtubei.googleapis.com
 0.0.0.0 video-stats.youtube.com
+0.0.0.0 www.video-stats.youtube.com
 0.0.0.0 yt3.ggpht.com
+0.0.0.0 www.yt3.ggpht.com
 0.0.0.0 yt6.ggpht.com
+0.0.0.0 www.yt6.ggpht.com
 0.0.0.0 ytimg-edge.googleusercontent.com
-(^|\.)googlevideo\.com$
-(^|\.)youtube\.com$
-(^|\.)ggpht\.com$
+0.0.0.0 www.ytimg-edge.googleusercontent.com
