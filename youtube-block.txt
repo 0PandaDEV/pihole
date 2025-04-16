@@ -1,0 +1,25 @@
+0.0.0.0 googlevideo.com
+0.0.0.0 youtube.com
+0.0.0.0 ytimg.com
+0.0.0.0 googleusercontent.com
+0.0.0.0 gstatic.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 ytimg.l.google.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 s.ytimg.com
+0.0.0.0 clients1.google.com
+0.0.0.0 clients2.google.com
+0.0.0.0 clients3.google.com
+0.0.0.0 clients4.google.com
+0.0.0.0 clients5.google.com
+0.0.0.0 clients6.google.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 manifest.googlevideo.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 video-stats.youtube.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 yt6.ggpht.com
+0.0.0.0 ytimg-edge.googleusercontent.com
+(^|\.)googlevideo\.com$
+(^|\.)youtube\.com$
+(^|\.)ggpht\.com$
