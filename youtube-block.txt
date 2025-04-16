@@ -1,4 +1,5 @@
 0.0.0.0 r*.googlevideo.com
+0.0.0.0 rr*.googlevideo.com
 0.0.0.0 *.googlevideo.com
 0.0.0.0 manifest.googlevideo.com
 0.0.0.0 redirector.googlevideo.com
@@ -27,6 +28,7 @@
 0.0.0.0 ytimg-edge.googleusercontent.com
 0.0.0.0 gstatic.com
 0.0.0.0 www.gstatic.com
+0.0.0.0 ssl.gstatic.com
 0.0.0.0 clients1.google.com
 0.0.0.0 clients2.google.com
 0.0.0.0 clients3.google.com
@@ -44,7 +46,11 @@
 0.0.0.0 i.ytimg.l.google.com
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 fonts.gstatic.com
-0.0.0.0 ssl.gstatic.com
 0.0.0.0 yt1.ggpht.com
 0.0.0.0 yt2.ggpht.com
 0.0.0.0 *.ggpht.com
+0.0.0.0 *.sn-*.googlevideo.com
+0.0.0.0 sn-*.googlevideo.com
+0.0.0.0 *.youtube.com/s/desktop/*/jsbin/*/*.js
+0.0.0.0 www.youtube.com/s/desktop/*/jsbin/*/*.js
+0.0.0.0 www.youtube.com/s/desktop/*/*
